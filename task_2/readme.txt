@@ -1,11 +1,9 @@
-#  Task 2: Data Manipulation in SQL — EdTechDB
+Task 2: Data Manipulation in SQL — EdTechDB
 
- **Objective:**  
+Objective:
 Practice core SQL operations to manipulate data in a real-world inspired EdTech database.
 
----
-
-##  What I Learned
+What I Learned
 
 This task deepened my understanding of:
 - Using `INSERT INTO` to add new data entries
@@ -14,9 +12,7 @@ This task deepened my understanding of:
 - Removing entries safely with `DELETE ... WHERE`, considering foreign key constraints
 - Resolving foreign key constraint issues by ordering DELETE operations carefully
 
----
-
-##  Database Theme: EdTech Company
+Database Theme: EdTech Company
 
 The schema simulates a basic educational platform with:
 -  `Students`
@@ -28,9 +24,7 @@ Each entity is linked with meaningful relationships. For example:
 - Each course is taught by a teacher (`teacher_id` FK)
 - Each enrollment links a student to a course
 
----
-
-## 🛠️ Tools Used
+Tools Used
 
 -  MySQL (Workbench & DB Fiddle)
 -  VS Code with SQLTools Extension

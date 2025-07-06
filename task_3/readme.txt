@@ -1,11 +1,9 @@
-# Task 3: Exploring Data with SELECT Queries — EdTechDB
+Task 3: Exploring Data with SELECT Queries — EdTechDB
 
-**Objective:**  
+Objective:  
 Learn how to extract and view specific data from a database using basic SQL SELECT queries.
 
----
-
-## What I Learned
+What I Learned
 
 In this task, I explored how to:
 - View entire tables or selected columns
@@ -18,14 +16,8 @@ I now understand how to pull meaningful insights from a database, like:
 - Which courses a teacher is handling
 - The most recent enrollments
 
----
-
-## Tools Used
+Tools Used
 
 - MySQL Workbench
 - VS Code (with SQLTools)
 - DB Browser for SQLite (optional)
-
-## Sample Queries I Used
-
-## Get all students with email addresses
